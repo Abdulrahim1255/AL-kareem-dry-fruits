@@ -1,0 +1,29 @@
+.name{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.main{
+    text-align: center;
+    margin: 5rem 10rem 3rem 10rem;
+    /* display: block; */
+    
+}
+
+.btn{
+  padding: 15px;
+  width: 20%;
+  border: 1px solid black ;
+  border-radius: 3rem;
+  margin: 5px;
+}
+.input{
+    padding: 15px;
+    width: 50%;
+    border: 1px solid black ;
+    border-radius: 1rem;
+    margin: 5px;
+
+}

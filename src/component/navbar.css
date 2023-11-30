@@ -1,0 +1,36 @@
+.logo{
+    display: flex;
+    text-align: center;
+   justify-content: center;
+   align-items: center;
+}
+.menu{
+    display: flex;
+    padding: 7px;
+    justify-content: center;
+ 
+
+}
+.menu-list{
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: space-between;
+    color:white ;
+    font-size:18px;
+}
+.menu-list{
+    padding: 5px;
+}
+.cart{
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+}
+.nav{
+    color: #8E24AA;
+
+}
+.navbar{
+    background-color: rgb(37, 150, 190);
+
+}
